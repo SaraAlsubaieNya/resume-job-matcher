@@ -1,0 +1,21 @@
+
+John Doe
+Software Developer
+
+EXPERIENCE:
+- 3 years Python development
+- Django and Flask frameworks
+- REST API development
+- PostgreSQL and MySQL databases
+- Git version control
+- Agile methodologies
+
+SKILLS:
+- Python, JavaScript, SQL
+- Django, Flask, React
+- PostgreSQL, MySQL, MongoDB
+- AWS, Docker
+- Machine Learning basics
+
+EDUCATION:
+Bachelor of Science in Computer Science

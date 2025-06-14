@@ -1,0 +1,8 @@
+Job Title: Data Scientist
+
+We are looking for a data scientist with experience in machine learning, Python, SQL, and data visualization tools like Power BI or Tableau.
+
+Responsibilities:
+- Build and deploy predictive models
+- Analyze large datasets
+- Communicate insights with stakeholders

@@ -1,0 +1,73 @@
+Jamie Neural
+404 Logic Loop, Cybertown, CA 00000
+jamie.neural@nowhere.ai
+(123) 456-7890
+
+Objective
+To obtain a role where I can continue teaching machines to think better than I do, pretend I understand deep math, and explain complex models using kitchen metaphors. Looking for a data/AI team that appreciates random forest jokes and accepts that sometimes the data just doesn’t want to cooperate.
+
+Education
+Bachelor of Science in Data Guessing (aka Data Science)
+University of Mostly Correct Predictions
+Graduated: Eventually
+
+Experience
+
+Junior AI Whisperer
+FutureProof Solutions
+April 2022 – Present
+
+Spent 60% of time cleaning data, 30% making pretty charts, 10% convincing models to work.
+
+Created a recommendation system that mostly recommended the same thing, but with confidence.
+
+Deployed a chatbot that accidentally developed a sarcastic tone (still in production).
+
+Data Enthusiast (Unpaid, Uninvited)
+Internet & My Laptop
+Ongoing
+
+Built 12 projects, abandoned 10, deployed 1.
+
+Participated in 37 Kaggle competitions. Placed 532nd in one.
+
+Learned how to pronounce “gradient descent” with confidence.
+
+Skills
+
+Pandas (not the animal, sadly)
+
+Scikit-learn, TensorFlow, “a little PyTorch I swear”
+
+Can explain overfitting with sock metaphors
+
+Fluent in Python, conversational in SQL, emotionally scarred by R
+
+Proficient in copy-pasting from Stack Overflow
+
+Certifications
+
+Completed 97% of a Coursera Deep Learning course
+
+Certified Model Re-Trainer (by necessity)
+
+Self-declared “Pretty Good with Data” badge from online quiz
+
+Projects
+
+AI Poem Generator: Accidentally generated song lyrics. One went viral.
+
+Fake News Detector: Flagged my own tweets. Still accurate.
+
+Data Dashboard: Mostly dark mode. Not very useful, but it looks incredible.
+
+Hobbies
+
+Debugging code by staring at it aggressively
+
+Giving cool names to boring models
+
+Arguing with ChatGPT about accuracy
+
+Using AI to generate excuses for late work
+

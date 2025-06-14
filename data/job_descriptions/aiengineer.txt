@@ -1,0 +1,13 @@
+Job Title: AI Engineer
+
+Looking for an AI Engineer with a solid understanding of deep learning frameworks and MLOps practices. You'll work on deploying models into production.
+
+Responsibilities:
+- Design and train neural networks using TensorFlow or PyTorch
+- Develop APIs for model serving
+- Monitor model performance and retrain pipelines
+
+Requirements:
+- Experience with Docker, FastAPI, and Git
+- Knowledge of data pipeline tools (Airflow, Kafka)
+- Familiarity with ML model lifecycle management

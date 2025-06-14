@@ -1,0 +1,13 @@
+Job Title: Backend Engineer
+
+We need a backend engineer to help scale our microservices and improve system performance.
+
+Responsibilities:
+- Develop APIs using Node.js or Django
+- Design scalable database schemas
+- Write unit and integration tests
+
+Requirements:
+- Strong knowledge of REST and database systems (PostgreSQL, MongoDB)
+- Experience with CI/CD and testing frameworks
+- Understanding of system design and architecture

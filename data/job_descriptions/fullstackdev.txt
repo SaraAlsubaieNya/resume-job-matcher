@@ -1,0 +1,13 @@
+Job Title: Full Stack Developer
+
+We are looking for a Full Stack Developer with experience in modern web development using JavaScript and Python.
+
+Responsibilities:
+- Build and maintain frontend components using React
+- Develop backend APIs using Django or Flask
+- Integrate with PostgreSQL databases
+
+Requirements:
+- Proficiency in HTML, CSS, JavaScript
+- Experience with RESTful APIs
+- Familiarity with version control (Git)

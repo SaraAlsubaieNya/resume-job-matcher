@@ -1,0 +1,13 @@
+Job Title: Data Analyst
+
+Join our data team to analyze trends, build dashboards, and provide insights to business stakeholders.
+
+Responsibilities:
+- Clean and analyze large datasets
+- Build dashboards using Power BI or Tableau
+- Generate ad hoc reports and KPIs
+
+Requirements:
+- Proficiency in SQL and Excel
+- Experience with Python (Pandas, Seaborn)
+- Strong communication and presentation skills

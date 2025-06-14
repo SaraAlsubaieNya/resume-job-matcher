@@ -1,0 +1,20 @@
+#Database Configuration
+database:
+  type: "sqlite"
+  path: "data/resume_matcher.db"
+
+#NLP Configuration
+nlp:
+  model: "all-MiniLM-L6-v2"  # Sentence transformer model
+  similarity_threshold: 0.7
+  max_features: 1000
+
+#Data Sources
+data_sources:
+  resume_folder: "data/resumes/"
+  job_descriptions_folder: "data/job_descriptions/"
+
+#Processing
+processing:
+  batch_size: 100
+  num_workers: 4

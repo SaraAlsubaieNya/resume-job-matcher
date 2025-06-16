@@ -12,3 +12,4 @@ An automated system that fetches resumes and job descriptions, processes them us
 - **CLI Interface**: Easy-to-use command-line interface
 
 
+⚠️ Commercial use is not allowed without my permission.
